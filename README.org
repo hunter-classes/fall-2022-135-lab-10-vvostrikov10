@@ -1,10 +1,10 @@
 * Fall 2022 - Lab 10
 
-* Last name:
+* Last name: Vostrikov
 
-* First name:
+* First name: Vladislav
 
-* GitHub username:
+* GitHub username: vvostrikov10
 
 * Notes:
 
